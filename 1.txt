@@ -1,0 +1,27 @@
+Deck
+3 Ulamog, the Defiler (MH3) 15
+2 Omniscience (FDN) 161
+4 Chrome Mox (SPG) 0
+4 Atraxa, Grand Unifier (ONE) 196
+2 Island (UNF) 241
+4 Brainstorm (FCA) 28
+4 Show and Tell (SPG) 21
+4 Ugin's Labyrinth (MH3) 233
+4 Sneak Attack (WOT) 50
+4 Devourer of Destiny (MH3) 2
+3 Flooded Strand (KTK) 233
+3 The One Ring (LTR) 246
+4 Fable of the Mirror-Breaker (NEO) 141
+3 Steam Vents (GRN) 257
+4 Ancient Tomb (EOS) 1
+3 Polluted Delta (KTK) 239
+4 Stock Up (DFT) 67
+1 Thundering Falls (MKM) 269
+
+Sideboard
+4 Vexing Bauble (MH3) 212
+3 Disruptor Flute (MH3) 209
+1 Disruptor Flute (MH3) 209
+2 Brotherhood's End (BRO) 128
+3 Blood Moon (WOT) 40
+2 Magus of the Moon (SPG) 0
